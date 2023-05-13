@@ -13,3 +13,14 @@ https://infura.io/dashboard/ethereum/
 CoinGecko API
 https://www.coingecko.com/en/api
 
+FakeStore API
+https://fakestoreapi.com/
+
+Weathermap API
+https://openweathermap.org/api
+
+Digital Recipe Book API
+https://www.edamam.com/
+
+News API
+https://newsapi.org/
